@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   width="602.99774"
+   height="377.48776"
+   xml:space="preserve"
+   sodipodi:docname="pdg_muonsthroughmatter_simplified.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"><metadata
+     id="metadata7"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs5"><linearGradient
+       inkscape:collect="always"
+       id="linearGradient3877"><stop
+         style="stop-color:#ffff00;stop-opacity:1"
+         offset="0"
+         id="stop3879" /><stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop3881" /></linearGradient><inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective9" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3877"
+       id="linearGradient3883"
+       x1="384"
+       y1="135.0932"
+       x2="508.6636"
+       y2="135.0932"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       gradientTransform="matrix(0.9234043,0,0,0.8,44.81308,-679.83324)" /></defs><sodipodi:namedview
+     inkscape:window-height="846"
+     inkscape:window-width="1434"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="284.34558"
+     inkscape:cy="156.95964"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="g11" /><g
+     id="g11"
+     inkscape:groupmode="layer"
+     inkscape:label="rpp2009-rev-passage-particles-matter"
+     transform="matrix(1.25,0,0,-1.25,-104.14401,852.18613)"><rect
+   style="opacity:1;fill:url(#linearGradient3883);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000083000000006;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect3875"
+   width="173.60001"
+   height="214.39999"
+   x="332.91522"
+   y="-678.95868"
+   transform="scale(1,-1)" /><g
+   transform="scale(0.997532,1.002475)"
+   id="g2469"
+   style="fill:#ffffff;fill-opacity:1;stroke:none"><path
+     id="path2471"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.55900002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+     d="M 217.841,680.06574 L 219.457,588.732 L 221.486,584.009 L 223.166,579.982 L 225.512,574.371 L 227.414,569.743 L 229.063,565.78 L 230.458,562.325 L 231.694,559.282 L 232.804,556.555 L 233.818,554.051 L 234.737,551.768 L 236.354,547.742 L 237.781,544.223 L 239.017,541.148 L 240.158,538.39 L 242.092,533.635 L 243.74,529.641 L 245.833,524.664 L 247.608,520.543 L 250.049,515.026 L 252.078,510.652 L 253.79,507.038 L 255.28,504.026 L 256.643,501.458 L 257.848,499.208 L 258.957,497.242 L 259.972,495.53 L 261.779,492.614 L 263.364,490.204 L 264.822,488.239 L 266.122,486.59 L 268.404,483.959 L 270.37,481.994 L 272.937,479.87 L 275.157,478.38 L 278.295,476.795 L 280.926,475.844 L 283.24,475.305 L 285.269,474.956 L 287.14,474.766 L 288.82,474.702 L 290.342,474.671 L 291.768,474.702 L 294.367,474.861 L 296.65,475.083 L 298.679,475.305 L 300.549,475.558 L 303.815,476.066 L 306.636,476.509 L 310.25,477.143 L 313.325,477.682 L 317.605,478.475 L 321.123,479.109 L 324.167,479.648 L 326.798,480.123 L 329.144,480.535 L 331.268,480.884 L 333.17,481.201 L 334.914,481.518 L 338.02,482.025 L 340.747,482.469 L 343.124,482.85 L 345.28,483.167 L 349.021,483.769 L 352.191,484.244 L 356.185,484.847 L 359.514,485.386 L 364.111,486.115 L 367.883,486.717 L 371.085,487.256 L 373.843,487.763 L 376.284,488.207 L 378.471,488.619 L 380.468,489.031 L 382.275,489.412 L 385.477,490.173 L 388.235,490.838 L 390.708,491.504 L 392.895,492.17 L 396.668,493.375 L 399.901,494.516 L 403.928,496.196 L 407.319,497.749 L 411.948,500.222 L 415.752,502.505 L 418.954,504.692 L 421.744,506.753 L 424.216,508.686 L 426.404,510.525 L 428.369,512.269 L 430.208,513.949 L 433.41,517.087 L 436.199,520.004 L 438.641,522.698 L 440.828,525.234 L 444.632,529.736 L 447.834,533.762 L 451.892,539.056 L 455.284,543.716 L 459.944,550.247 L 463.716,555.763 L 466.95,560.55 L 469.739,564.798 L 472.181,568.507 L 474.368,571.899 L 476.365,574.974 L 478.172,577.795 L 481.374,582.867 L 484.164,587.306 L 486.636,591.237 L 488.824,594.787 L 492.628,600.905 L 495.83,606.136 L 499.888,612.73 L 503.28,618.31 L 507.908,625.918 L 511.712,632.195 L 514.946,637.489 L 517.704,642.117 L 520.176,646.175 L 522.364,649.789 L 524.361,653.086 L 526.168,656.097 L 529.37,661.423 L 532.159,666.052 L 534.6,670.141 L 536.82,673.787 L 539.261,677.876"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" /></g><text
+   transform="scale(0.9975307,-1.0024755)"
+   id="text39"
+   x="292.62769"
+   y="-378.97928"
+   style="font-size:11.97036934px"><tspan
+     style="font-size:11.18351746px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="292.62769 303.18494 310.01807 315.60983 322.44296 325.55197 335.49411 341.08588 351.02808 356.61984 363.45297 367.80334 374.63647"
+     y="-378.97928"
+     sodipodi:role="line"
+     id="tspan41">Muon momentum</tspan></text>
+
+<text
+   transform="matrix(0.9950645,0,0,-1,111.0039,465.7277)"
+   id="text43"><tspan
+     style="font-size:10.09010029px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="0"
+     y="0"
+     id="tspan45">1</tspan><tspan
+     style="font-size:10.09010029px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="-5.8028164 -0.1927209"
+     y="-75.318558"
+     sodipodi:role="line"
+     id="tspan47">10</tspan><tspan
+     style="font-size:10.09010029px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="-11.045632 -5.4355369 0.17455873"
+     y="-155.11813"
+     sodipodi:role="line"
+     id="tspan49">100</tspan></text>
+
+<text
+   transform="matrix(0,1.0024755,0.9975307,0,0,0)"
+   id="text51"
+   x="493.14709"
+   y="94.346779"
+   style="font-size:11.97036934px"><tspan
+     style="font-size:11.18351746px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="493.14709 500.19272 504.54309 510.13486 516.55414 522.97345 526.49628 533.32941 539.33496 542.44397 548.86328 554.45508 563.15582 568.74762 573.71307 576.82208 580.5462 591.10345 596.69519 604.76971 607.87872 612.84418"
+     y="94.346779"
+     sodipodi:role="line"
+     id="tspan53">Stopping power [MeV cm</tspan></text>
+
+<text
+   transform="matrix(0,1.0024769,0.9975292,0,0,0)"
+   id="text55"
+   x="622.78534"
+   y="90.991814"
+   style="font-size:11.97035027px"><tspan
+     style="font-size:10.06516933px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="622.78534"
+     y="90.991814"
+     id="tspan57">2</tspan></text>
+
+<text
+   transform="matrix(0,1.0024755,0.9975307,0,0,0)"
+   id="text59"
+   x="628.38245"
+   y="94.346779"
+   style="font-size:11.97036934px"><tspan
+     style="font-size:11.18351746px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="628.38245 631.49146 637.49701"
+     y="94.346779"
+     sodipodi:role="line"
+     id="tspan61">/g]</tspan></text>
+
+<g
+   id="g63"
+   transform="scale(0.997532,1.002475)"><path
+     d="M 120.517,463.005 L 552.417,463.005 M 120.517,463.005 L 120.517,470.518 M 168.482,463.005 L 168.482,470.518 M 216.477,463.005 L 216.477,470.518 M 264.473,463.005 L 264.473,470.518 M 312.469,463.005 L 312.469,470.518 M 360.433,463.005 L 360.433,470.518 M 408.429,463.005 L 408.429,470.518 M 456.425,463.005 L 456.425,470.518 M 504.421,463.005 L 504.421,470.518 M 552.417,463.005 L 552.417,470.518 M 120.517,677.876 L 552.417,677.876 M 120.517,677.876 L 120.517,670.331 M 168.482,677.876 L 168.482,670.331 M 216.477,677.876 L 216.477,670.331 M 264.473,677.876 L 264.473,670.331 M 312.469,677.876 L 312.469,670.331 M 360.433,677.876 L 360.433,670.331 M 408.429,677.876 L 408.429,670.331 M 456.425,677.876 L 456.425,670.331 M 504.421,677.876 L 504.421,670.331 M 552.417,677.876 L 552.417,670.331 M 120.517,463.005 L 120.517,677.876 M 120.517,463.005 L 129.14,463.005 M 120.517,542.607 L 129.14,542.607 M 120.517,622.209 L 129.14,622.209 M 120.517,486.971 L 124.829,486.971 M 120.517,500.983 L 124.829,500.983 M 120.517,510.937 L 124.829,510.937 M 120.517,518.64 L 124.829,518.64 M 120.517,524.949 L 124.829,524.949 M 120.517,530.275 L 124.829,530.275 M 120.517,534.903 L 124.829,534.903 M 120.517,538.961 L 124.829,538.961 M 120.517,566.573 L 124.829,566.573 M 120.517,580.585 L 124.829,580.585 M 120.517,590.539 L 124.829,590.539 M 120.517,598.242 L 124.829,598.242 M 120.517,604.551 L 124.829,604.551 M 120.517,609.877 L 124.829,609.877 M 120.517,614.505 L 124.829,614.505 M 120.517,618.563 L 124.829,618.563 M 120.517,646.175 L 124.829,646.175 M 120.517,660.187 L 124.829,660.187 M 120.517,670.141 L 124.829,670.141 M 120.517,677.876 L 124.829,677.876 M 552.417,463.005 L 552.417,677.876 M 552.417,463.005 L 543.762,463.005 M 552.417,542.607 L 543.762,542.607 M 552.417,622.209 L 543.762,622.209 M 552.417,486.971 L 548.073,486.971 M 552.417,500.983 L 548.073,500.983 M 552.417,510.937 L 548.073,510.937 M 552.417,518.64 L 548.073,518.64 M 552.417,524.949 L 548.073,524.949 M 552.417,530.275 L 548.073,530.275 M 552.417,534.903 L 548.073,534.903 M 552.417,538.961 L 548.073,538.961 M 552.417,566.573 L 548.073,566.573 M 552.417,580.585 L 548.073,580.585 M 552.417,590.539 L 548.073,590.539 M 552.417,598.242 L 548.073,598.242 M 552.417,604.551 L 548.073,604.551 M 552.417,609.877 L 548.073,609.877 M 552.417,614.505 L 548.073,614.505 M 552.417,618.563 L 548.073,618.563 M 552.417,646.175 L 548.073,646.175 M 552.417,660.187 L 548.073,660.187 M 552.417,670.141 L 548.073,670.141 M 552.417,677.876 L 548.073,677.876"
+     style="fill:none;stroke:#000000;stroke-width:0.447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+     id="path65" /></g><g
+   id="g67"
+   transform="scale(0.997532,1.002475)"><path
+     d="M 128.379,589.937 L 132.627,596.087 L 135.607,600.525 L 137.953,604.012 L 139.855,606.865 L 142.835,611.462 L 145.149,615.044 L 147.051,617.992 L 148.668,620.497 L 150.063,622.684 L 151.299,624.65 L 152.377,626.393 L 154.723,629.532 L 156.625,632.036 L 158.21,634.128 L 159.605,635.872 L 160.841,637.33 L 161.919,638.598 L 162.934,639.676 L 163.821,640.627 L 165.438,642.18 L 166.833,643.385 L 168.069,644.304 L 169.147,645.034 L 170.162,645.636 L 171.049,646.112 L 171.905,646.492 L 172.666,646.809 L 173.395,647.062 L 174.061,647.253 L 174.695,647.411 L 175.297,647.57 L 175.836,647.665 L 176.375,647.76 L 178.721,647.95 L 180.591,647.823 L 182.208,647.506 L 183.603,647.126 L 184.839,646.619 L 185.917,646.08 L 186.932,645.509 L 187.819,644.875 L 189.436,643.607 L 190.831,642.307 L 192.067,641.008 L 193.145,639.74 L 194.16,638.408 L 195.047,637.108 L 195.903,635.809 L 196.664,634.54 L 197.393,633.336 L 198.059,632.195 L 198.693,631.085 L 199.295,630.007 L 199.834,629.025 L 200.373,628.042 L 202.719,623.825 L 204.621,620.275 L 206.206,617.2 L 207.601,614.474 L 208.837,611.937 L 209.947,609.687 L 210.93,607.626 L 211.849,605.692 L 213.434,602.237 L 217.92557,592.09688"
+     style="fill:none;stroke:#000000;stroke-width:0.55900002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+     id="path69"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" /></g><g
+   id="g75"
+   transform="scale(0.997532,1.002475)"><path
+     d="M 217.841,592.283 L 219.457,588.732 L 221.486,584.009 L 223.166,579.982 L 225.512,574.371 L 227.414,569.743 L 229.063,565.78 L 230.458,562.325 L 231.694,559.282 L 232.804,556.555 L 233.818,554.051 L 234.737,551.768 L 236.354,547.742 L 237.781,544.223 L 239.017,541.148 L 240.158,538.39 L 242.092,533.635 L 243.74,529.641 L 245.833,524.664 L 247.608,520.543 L 250.049,515.026 L 252.078,510.652 L 253.79,507.038 L 255.28,504.026 L 256.643,501.458 L 257.848,499.208 L 258.957,497.242 L 259.972,495.53 L 261.779,492.614 L 263.364,490.204 L 264.822,488.239 L 266.122,486.59 L 268.404,483.959 L 270.37,481.994 L 272.937,479.87 L 275.157,478.38 L 278.295,476.795 L 280.926,475.844 L 283.24,475.305 L 285.269,474.956 L 287.14,474.766 L 288.82,474.702 L 290.342,474.671 L 291.768,474.702 L 294.367,474.861 L 296.65,475.083 L 298.679,475.305 L 300.549,475.558 L 303.815,476.066 L 306.636,476.509 L 310.25,477.143 L 313.325,477.682 L 317.605,478.475 L 321.123,479.109 L 324.167,479.648 L 326.798,480.123 L 329.144,480.535 L 331.268,480.884 L 333.17,481.201 L 334.914,481.518 L 338.02,482.025 L 340.747,482.469 L 343.124,482.85 L 345.28,483.167 L 349.021,483.769 L 352.191,484.244 L 356.185,484.847 L 359.514,485.386 L 364.111,486.115 L 367.883,486.717 L 371.085,487.256 L 373.843,487.763 L 376.284,488.207 L 378.471,488.619 L 380.468,489.031 L 382.275,489.412 L 385.477,490.173 L 388.235,490.838 L 390.708,491.504 L 392.895,492.17 L 396.668,493.375 L 399.901,494.516 L 403.928,496.196 L 407.319,497.749 L 411.948,500.222 L 415.752,502.505 L 418.954,504.692 L 421.744,506.753 L 424.216,508.686 L 426.404,510.525 L 428.369,512.269 L 430.208,513.949 L 433.41,517.087 L 436.199,520.004 L 438.641,522.698 L 440.828,525.234 L 444.632,529.736 L 447.834,533.762 L 451.892,539.056 L 455.284,543.716 L 459.944,550.247 L 463.716,555.763 L 466.95,560.55 L 469.739,564.798 L 472.181,568.507 L 474.368,571.899 L 476.365,574.974 L 478.172,577.795 L 481.374,582.867 L 484.164,587.306 L 486.636,591.237 L 488.824,594.787 L 492.628,600.905 L 495.83,606.136 L 499.888,612.73 L 503.28,618.31 L 507.908,625.918 L 511.712,632.195 L 514.946,637.489 L 517.704,642.117 L 520.176,646.175 L 522.364,649.789 L 524.361,653.086 L 526.168,656.097 L 529.37,661.423 L 532.159,666.052 L 534.6,670.141 L 536.82,673.787 L 539.261,677.876"
+     style="fill:none;stroke:#000000;stroke-width:0.55900002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+     id="path77" /></g><g
+   id="g79"
+   transform="scale(0.997532,1.002475)"><path
+     d="M 415.879,463.005 L 418.954,468.869 L 421.744,474.163 L 424.216,478.697 L 426.404,482.754 L 428.369,486.432 L 430.208,489.76 L 433.41,495.689 L 436.199,500.793 L 438.64,505.294 L 440.828,509.32 L 444.632,516.104 L 447.834,521.842 L 451.892,529.038 L 455.284,535.062 L 459.944,543.177 L 463.716,549.803 L 466.95,555.414 L 469.739,560.264 L 472.18,564.449 L 474.368,568.221 L 476.365,571.613 L 478.172,574.72 L 481.374,580.204 L 484.164,584.96 L 486.636,589.144 L 488.824,592.917 L 492.628,599.352 L 495.83,604.773 L 499.887,611.62 L 503.28,617.327 L 507.908,625.157 L 511.712,631.561 L 514.946,636.95 L 517.704,641.61 L 520.176,645.731 L 522.364,649.408 L 524.361,652.737 L 526.168,655.78 L 529.37,661.138 L 532.159,665.798 L 534.6,669.919 L 536.82,673.597 L 539.387,677.876"
+     style="fill:none;stroke:#000000;stroke-width:0.55900002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:1.1184, 2.2367;stroke-dashoffset:0;stroke-opacity:1"
+     id="path81" /></g><g
+   id="g91"
+   transform="scale(0.997532,1.002475)"
+   style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.55900002;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:2.5;stroke-dasharray:1.1184, 2.2367;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"><path
+     d="M 289.898,463.005 L 289.898,506.719"
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.55900002;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:2.5;stroke-dasharray:1.1184, 2.2367;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path93" /></g><text
+   transform="scale(0.9975307,-1.0024755)"
+   id="text109"
+   x="446.01859"
+   y="-620.21423"
+   style="font-size:11.97036934px"><tspan
+     style="font-size:11.18351746px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     sodipodi:role="line"
+     id="tspan117"
+     x="446.01859"
+     y="-620.21423">Radiative </tspan></text>
+
+<g
+   id="g131"
+   transform="matrix(0.997532,0,0,1.002475,-64,0)"
+   style="fill:#ffffff"><path
+     d="M 301.77,631.974 L 373.344,631.974 L 373.344,655.459 L 301.77,655.459 L 301.77,631.974 z"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+     id="path133" /></g><text
+   transform="scale(0.9975329,-1.0024732)"
+   id="text119"
+   x="246.33311"
+   y="-638.68518"
+   style="font-size:11.97039509px"><tspan
+     style="font-size:13.42020893px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Symbol;-inkscape-font-specification:Symbol"
+     x="246.33311"
+     y="-638.68518"
+     id="tspan121">µ</tspan></text>
+
+<text
+   transform="scale(0.9975307,-1.0024755)"
+   id="text123"
+   x="254.06396"
+   y="-644.27551"
+   style="font-size:11.9703722px"><tspan
+     style="font-size:11.18352032px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Symbol;-inkscape-font-specification:Symbol"
+     x="254.06396"
+     y="-644.27551"
+     id="tspan125">+</tspan></text>
+
+<text
+   transform="scale(0.9975329,-1.0024732)"
+   id="text127"
+   x="263.93372"
+   y="-638.68518"
+   style="font-size:11.97039509px"><tspan
+     style="font-size:13.42020893px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="263.93372 270.64383 278.84357 282.5744 292.26379"
+     sodipodi:role="line"
+     id="tspan129"
+     y="-638.68518">on Cu</tspan></text>
+
+<text
+   transform="matrix(0.9950674,0,0,-1,334.34333,441.03293)"
+   id="text149"><tspan
+     style="font-size:11.21119976px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Symbol;-inkscape-font-specification:Symbol"
+     x="0 6.1549487"
+     y="0"
+     sodipodi:role="line"
+     id="tspan151">βγ</tspan></text>
+
+<path
+   d="M 148.328,488.493 L 155.928,488.493 L 155.928,512.667 L 148.328,512.667 L 148.328,488.493 z"
+   style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="path155" /><text
+   transform="matrix(0.9950645,0,0,-1,108.1103,450.0482)"
+   id="text157"><tspan
+     style="font-size:10.09010029px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="0 5.6100955 8.415143 14.025239 19.635334 49.892517 55.502613 58.307659 63.917755 102.40039 108.01048 110.81553 154.81644 199.09886 204.70895 245.99664 251.60674 257.21683 289.90472 295.5148 301.12491 306.73502 339.73065 345.34073"
+     y="0"
+     sodipodi:role="line"
+     id="tspan159">0.0010.010.1110100100010</tspan></text>
+
+<text
+   transform="matrix(0.9950719,0,0,-1,458.0822,453.4116)"
+   id="text161"><tspan
+     style="font-size:8.96889973px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="0"
+     y="0"
+     id="tspan163">4</tspan></text>
+
+<text
+   transform="matrix(0.9950645,0,0,-1,495.6222,450.0482)"
+   id="text165"><tspan
+     style="font-size:10.09010029px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="0 5.6100955"
+     y="0"
+     sodipodi:role="line"
+     id="tspan167">10</tspan></text>
+
+<text
+   transform="matrix(0.9950719,0,0,-1,507.54,453.4116)"
+   id="text169"><tspan
+     style="font-size:8.96889973px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="0"
+     y="0"
+     id="tspan171">5</tspan></text>
+
+<text
+   transform="matrix(0.9950645,0,0,-1,542.1051,450.0482)"
+   id="text173"><tspan
+     style="font-size:10.09010029px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="0 5.6100955"
+     y="0"
+     sodipodi:role="line"
+     id="tspan175">10</tspan></text>
+
+<text
+   transform="matrix(0.9950719,0,0,-1,554.0229,453.4116)"
+   id="text177"><tspan
+     style="font-size:8.96889973px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="0"
+     y="0"
+     id="tspan179">6</tspan></text>
+
+<text
+   transform="matrix(0.9950674,0,0,-1,172.9886,395.3003)"
+   id="text181"><tspan
+     style="font-size:11.21119976px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="0 3.7333295 14.316703 19.922302 28.016788"
+     y="0"
+     sodipodi:role="line"
+     id="tspan183">[MeV/</tspan></text>
+
+<text
+   transform="matrix(0.9950674,0,0,-1,203.96853,395.3003)"
+   id="text185"><tspan
+     style="font-size:11.21119976px;font-style:italic;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Italic"
+     x="0"
+     y="0"
+     id="tspan187">c</tspan></text>
+
+<text
+   transform="matrix(0.9950674,0,0,-1,208.92175,395.3003)"
+   id="text189"><tspan
+     style="font-size:11.21119976px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="0 133.54782 137.28114 146.00346 151.60905 159.70354"
+     y="0"
+     sodipodi:role="line"
+     id="tspan191">][GeV/</tspan></text>
+
+<text
+   transform="matrix(0.9950674,0,0,-1,370.93889,395.3003)"
+   id="text193"><tspan
+     style="font-size:11.21119976px;font-style:italic;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Italic"
+     x="0"
+     y="0"
+     id="tspan195">c</tspan></text>
+
+<text
+   transform="matrix(0.9950674,0,0,-1,375.89211,395.3003)"
+   id="text197"><tspan
+     style="font-size:11.21119976px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="0"
+     y="0"
+     id="tspan199">]</tspan></text>
+
+<text
+   transform="matrix(0.9950645,0,0,-1,256.9521,413.0513)"
+   id="text201"><tspan
+     style="font-size:10.09010029px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="0 5.6100955 11.220191 -45.029091 -39.418995 -90.805855 -143.78191 -138.17181 -135.36676 143.50443 149.11452 154.72462 98.475342 104.08543 52.698574 288.12988 293.73996 299.35007 243.10078 248.71088 197.32402"
+     y="0"
+     sodipodi:role="line"
+     id="tspan203">1001010.1100101100101</tspan></text>
+
+<text
+   transform="matrix(0.9950674,0,0,-1,486.3413,395.3003)"
+   id="text205"><tspan
+     style="font-size:11.21119976px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="0 3.7333295 11.2112 16.816799 24.911287"
+     y="0"
+     sodipodi:role="line"
+     id="tspan207">[TeV/</tspan></text>
+
+<text
+   transform="matrix(0.9950674,0,0,-1,514.23105,395.3003)"
+   id="text209"><tspan
+     style="font-size:11.21119976px;font-style:italic;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Italic"
+     x="0"
+     y="0"
+     id="tspan211">c</tspan></text>
+
+<text
+   transform="matrix(0.9950674,0,0,-1,519.18427,395.3003)"
+   id="text213"><tspan
+     style="font-size:11.21119976px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="0"
+     y="0"
+     id="tspan215">]</tspan><tspan
+     style="font-size:11.21119976px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="-370.91693 -362.82245 -355.97241 -349.5372 -343.93158 -338.95383 -333.76303 -328.15744 -321.30737"
+     y="-194.95828"
+     sodipodi:role="line"
+     id="tspan217">Anderson-</tspan><tspan
+     style="font-size:11.21119976px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="-362.30673 -355.4567 -351.92517 -346.31958 -340.29916 -336.76764 -331.16202"
+     y="-182.62596"
+     sodipodi:role="line"
+     id="tspan219">Ziegler</tspan><tspan
+     style="font-size:11.21119976px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="-395.35962 -386.22247 -379.37244 -374.39465 -370.86313 -365.25754 -359.02411"
+     y="-107.81475"
+     sodipodi:role="line"
+     id="tspan221">Nuclear</tspan><tspan
+     style="font-size:11.21119976px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="-389.8605 -386.32898 -380.72339 -375.53259 -370.3418 -364.73621"
+     y="-96.603546"
+     sodipodi:role="line"
+     id="tspan223">losses</tspan></text>
+
+<path
+   d="M 138.808,476.692 L 136.668,468.955 L 134.262,479.251 L 136.837,476.288 L 138.808,476.692"
+   style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="path225" /><g
+   id="g227"
+   transform="scale(0.997532,1.002475)"><path
+     d="M 136.999,484.911 L 136.999,472.982"
+     style="fill:none;stroke:#000000;stroke-width:0.55900002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+     id="path229" /></g><g
+   id="g231"
+   transform="scale(0.997532,1.002475)"><path
+     d="M 121.747,427.683 L 553.646,427.683 M 121.747,427.683 L 121.747,435.196 M 169.711,427.683 L 169.711,435.196 M 217.707,427.683 L 217.707,435.196 M 265.703,427.683 L 265.703,435.196 M 313.699,427.683 L 313.699,435.196 M 361.663,427.683 L 361.663,435.196 M 409.659,427.683 L 409.659,435.196 M 457.654,427.683 L 457.654,435.196 M 505.65,427.683 L 505.65,435.196 M 553.646,427.683 L 553.646,435.196 M 279.403,415.765 L 279.403,408.252 L 279.472,408.252 L 108.886,408.252 L 108.886,415.765 M 422.552,415.765 L 422.552,408.252 L 422.621,408.252 L 306.834,408.252 L 306.834,415.765 M 566.819,415.765 L 566.819,408.252 L 566.889,408.252 L 451.102,408.252 L 451.102,415.765"
+     style="fill:none;stroke:#000000;stroke-width:0.447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+     id="path233" /></g><text
+   transform="matrix(0.9950674,0,0,-1,264.0767,521.4261)"
+   id="text247"><tspan
+     style="font-size:11.21119976px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="0 10.583373 14.114901 20.964945 24.496471 34.46323 41.313271"
+     y="0"
+     sodipodi:role="line"
+     id="tspan249">Minimum</tspan><tspan
+     style="font-size:11.21119976px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman"
+     x="-0.1065064 3.4250216 9.0306215 15.880665 19.412193 24.804779 31.038208 35.399364 38.930893 44.536491"
+     y="11.2112"
+     sodipodi:role="line"
+     id="tspan251">ionization</tspan></text>
+
+<text
+   transform="matrix(1,0,0,-1,306.59684,366.945)"
+   id="text303"><tspan
+     style="font-size:11.9552002px;font-style:italic;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMSY10;-inkscape-font-specification:CMSY10"
+     x="0"
+     y="0"
+     id="tspan305" /></text>
+
+<text
+   transform="matrix(1,0,0,-1,266.16,169.185)"
+   id="text441"><tspan
+     style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMEX10;-inkscape-font-specification:CMEX10"
+     x="0"
+     y="0"
+     id="tspan443" /></text>
+
+<text
+   transform="matrix(1,0,0,-1,457.3205,169.18462)"
+   id="text553"><tspan
+     style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMEX10;-inkscape-font-specification:CMEX10"
+     x="0"
+     y="0"
+     id="tspan555" /></text>
+
+<text
+   style="font-size:11.97037697px"
+   y="-594.67761"
+   x="304.06812"
+   id="text3830"
+   transform="scale(0.9975307,-1.0024755)"><tspan
+     y="-594.67761"
+     x="304.06812"
+     id="tspan3838"
+     sodipodi:role="line"
+     style="font-size:11.18352509px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NewCenturySchlbk;-inkscape-font-specification:NewCenturySchlbk-Roman">Bethe-Bloch </tspan></text>
+
+<text
+   xml:space="preserve"
+   style="font-size:12.80000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+   x="488.91528"
+   y="-495.75864"
+   id="text3243"
+   sodipodi:linespacing="125%"
+   transform="scale(1,-1)"><tspan
+     sodipodi:role="line"
+     id="tspan3245"
+     x="488.91528"
+     y="-495.75864">LHC muons</tspan></text>
+</g></svg>
